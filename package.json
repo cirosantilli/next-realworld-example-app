@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "reck1ess",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 4003",
     "build": "next build",
     "start": "next start"
   },
